@@ -2,7 +2,7 @@
 
 ## About Me
 
-🐦‍🔥 I'm a data scientist and software engineer with a background in public policy and civic tech. I am currently in the University of Chicago's Computational Analysis and Public Policy Program.
+🐦‍🔥 I'm a data scientist and software engineer with a background in public policy and civic tech. I currently lead the Mansueto Institute for Urban Innovation's Local Data Journalism program, where we work with local newsrooms to tackle data problems. I recently graduated from the University of Chicago's Computational Analysis and Public Policy Program.
 
 🌆 I want to develop systems that use data to identify and serve community needs.
 
